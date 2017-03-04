@@ -5,7 +5,6 @@
  * Date  : March 2017
  *
  */
-
 /*
  * example
  * Input matrix:
@@ -19,6 +18,7 @@
  *     9 6 3
  * 
  */
+/* Explanation at https://www.youtube.com/watch?v=Jtu6dJ0Cb94&t=1797s */
 
 
 #include <stdio.h>
